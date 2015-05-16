@@ -1,0 +1,80 @@
+body {
+  background: #00ff00 url("pictures/abstract-anime-background.jpg") no-repeat fixed center;
+  }
+
+li {
+  display: inline;
+  float: left;
+  }
+
+a {
+  float: left;
+  color: blue;
+  margin: 15px;
+  padding: 10px;
+  border: 2px solid;
+  border-radius: 25px;
+}
+
+
+.plsnt p {
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  float: right;
+  background-color: white;
+  border-radius: 15px;
+}
+
+.sm2-container h5 {
+  width: 350px;
+  text-align: right;
+  float: auto;
+  padding: 3px solid;
+  margin: 0 auto;
+  border: 5px solid red;
+  border-radius: 10px;
+  position: absolute;
+  background-color: white;
+  color: red;
+}
+
+
+.SM2 h1, p {
+  width: 400px;
+  padding: 2px;
+  text-align: center;
+  margin: 2px;
+
+}
+.plsnt2 p{
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  float: right;
+  background-color: white;
+  border-radius: 15px;
+  text-transform: uppercase;
+}
+.support p{
+  width: 400px;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  float: left;
+  background-color: green;
+  border-radius: 15px;
+  text-transform: uppercase;
+}
+
+.members-tab p {
+width: 400px;
+  padding: 10px;
+  text-align: center;
+  margin: 5px;
+  float: right;
+  background-color: white;
+  border-radius: 15px;
+}
